@@ -3,3 +3,4 @@
 
 ## Miscellaneous 
 1. ShareX - Screen capturing.
+2. Add context menus to open CMD/Powershell. [Script here](./cmd-powershell-context-menu.reg).
